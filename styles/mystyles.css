@@ -48,9 +48,8 @@ h4{
 }
 
 
-img {
-    max-width: 33%;
-}
+.pics{
+    width:100%;}
 
 .jump{
     font-size: 16px;
@@ -93,5 +92,4 @@ img {
 .lastbit{
     line-height:5px;
 }
-
 

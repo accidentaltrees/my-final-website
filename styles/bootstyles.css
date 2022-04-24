@@ -52,16 +52,18 @@
 }*/
 
 .tableau{
-    width:50vw;
+    width:50%;
+    height:inherit;
     display: block;
     align-items: center;
     margin-left: auto;
     margin-right: auto;   
     margin-top: auto;
     margin-bottom:auto; 
+
     }
     
-  /*
+  /*    transform:scale();
      height:relative;
     height: 100%;
     height: 50%;    
